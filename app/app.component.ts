@@ -1,12 +1,17 @@
 
 import { Component } from "@angular/core";
-import { MaterializeDirective } from "../src/index";
+import {
+    WaveButton,
+    FloatButton,
+    MD
+} from "../src/controls";
 
 @Component({
     selector: "app",
     templateUrl: "/app/app.component.html",
-    directives: [MaterializeDirective]
+    directives: [MD, WaveButton, FloatButton]
 })
+
 export class AppComponent {
 
 }

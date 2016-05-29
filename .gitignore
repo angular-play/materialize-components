@@ -4,4 +4,5 @@ src/**/*.js
 src/**/*.map
 app/**/*.js
 app/**/*.map
+dist/**/*.map
 

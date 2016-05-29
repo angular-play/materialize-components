@@ -1,4 +1,10 @@
 {
+  "name": "materialize-components",
+  "version": "0.0.1",
+  "description": "Materialize components for angular2",
+  "keywords": ["angular2", "material design"],
+  "author": "wk",
+  "license": "MIT",
   "jspm": {
     "devDependencies": {
       "@angular/common": "npm:@angular/common@^2.0.0-rc.1",
