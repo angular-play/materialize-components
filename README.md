@@ -1,10 +1,20 @@
-## Materialize Component for Angular 2
+## Materialize Components for Angular 2
 
 - jspm
 - materialize-css
 - angular2-materialize
 
-## config.js
+## Install
+
+```
+npm install materialize-components
+```
+
+## Setup
+
+Open config.js (jspm)
+
+Fixed materialize package.
 
 ```json
 packages: {
@@ -13,6 +23,8 @@ packages: {
     }
 },
 ```
+
+Map materialize to npm:materialize-css@[version].
 
 ```json
 map: {
